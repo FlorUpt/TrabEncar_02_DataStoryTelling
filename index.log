@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.18)  29 APR 2019 11:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.18)  18 APR 2019 15:41
 entering extended mode
 **./index.tex
 (index.tex
@@ -258,15 +258,15 @@ G,.JBIG2,.JB2,.eps]
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--38
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
 
  []
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 44.
+LaTeX Font Info:    Try loading font information for U+msa on input line 43.
 ("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 44.
+LaTeX Font Info:    Try loading font information for U+msb on input line 43.
 ("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -278,78 +278,244 @@ Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 
 
 {C:/Users/luis_/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 54--59
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--59
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--64
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--68
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
 
-LaTeX Warning: Citation `bib01' on page 3 undefined on input line 76.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--77
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--77
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
-[3] [4] (index.aux
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 91--94
+
+ []
+
+<./Imagenes/img1.png, id=16, 427.3785pt x 140.9265pt>
+File: ./Imagenes/img1.png Graphic file (type png)
+<use ./Imagenes/img1.png>
+Package pdftex.def Info: ./Imagenes/img1.png  used on input line 96.
+(pdftex.def)             Requested size: 369.88582pt x 121.96855pt.
+
+Overfull \hbox (9.26051pt too wide) in paragraph at lines 96--97
+ [] 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 100.
+
+("C:\Users\luis_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 100.
+
+[4 <./Imagenes/img1.png>]
+<./Imagenes/img2.png, id=23, 188.559pt x 166.878pt>
+File: ./Imagenes/img2.png Graphic file (type png)
+<use ./Imagenes/img2.png>
+Package pdftex.def Info: ./Imagenes/img2.png  used on input line 109.
+(pdftex.def)             Requested size: 199.16928pt x 176.2787pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+
+ []
+
+[5 <./Imagenes/img2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 129--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--138
+
+ []
+
+
+Overfull \hbox (1.0743pt too wide) in paragraph at lines 143--144
+[]\OT1/cmr/bx/n/12 PROCESO DE EJE-CU-CION E IM-PLE-MEN-TA-CION DEL DA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 155--158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--168
+
+ []
+
+[7]
+<./Imagenes/img3.jpg, id=36, 505.13719pt x 341.02406pt>
+File: ./Imagenes/img3.jpg Graphic file (type jpg)
+<use ./Imagenes/img3.jpg>
+Package pdftex.def Info: ./Imagenes/img3.jpg  used on input line 170.
+(pdftex.def)             Requested size: 284.52756pt x 192.09094pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--177
+
+ []
+
+[8 <./Imagenes/img3.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 181--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--194
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--231
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+
+ []
+
+(index.bbl [12]) [13] (index.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
-)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+) ) 
 Here is how much of TeX's memory you used:
- 3643 strings out of 492945
- 50067 string characters out of 3126252
- 122233 words of memory out of 3000000
- 7488 multiletter control sequences out of 15000+200000
+ 3700 strings out of 492945
+ 51121 string characters out of 3126252
+ 125370 words of memory out of 3000000
+ 7533 multiletter control sequences out of 15000+200000
  9883 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,31p,690b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/luis_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmbx12.pfb><C:/Users/luis_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb><C:/Users/luis_/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/luis_/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/luis_/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on index.pdf (4 pages, 79961 bytes).
+ 41i,5n,31p,791b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/luis_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb><C:/Users/luis_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb><C:/Users/luis_/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/luis_/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/luis_/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/luis_
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
+:/Users/luis_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmti12.pfb>
+Output written on index.pdf (13 pages, 674323 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
+ 79 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
